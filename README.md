@@ -211,8 +211,4 @@ See [docs/specifications.md](docs/specifications.md) for complete security rule 
 
 ## License
 
-See LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please see CONTRIBUTING.md for guidelines.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
