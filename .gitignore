@@ -1,0 +1,44 @@
+# Binaries
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go
+*.test
+*.out
+vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Test coverage
+coverage.out
+coverage.html
+
+# Built binaries (project-specific)
+AeyeWire_mcp
+
+# Go module backups
+*.mod.bak
+*.sum.bak
+
+# Development tools
+.air.toml
+tmp/
